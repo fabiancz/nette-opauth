@@ -1,5 +1,5 @@
 {
-  "name": "michalsvec/nette-opauth",
+  "name": "fabiancz/nette-opauth",
   "type": "library",
   "description": "Opauth extension for Nette framework",
   "keywords": ["nette", "opauth"],
